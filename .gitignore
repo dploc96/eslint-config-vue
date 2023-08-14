@@ -1,0 +1,21 @@
+## OS
+.DS_Store
+.idea
+
+## Ignored suffix
+*.log
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+*.sw?
+
+## Local
+.env.*.local
+.husky
+.vscode
+.VSCodeCounter
+node_modules
+
+## Built-files
+dist
