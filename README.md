@@ -15,3 +15,14 @@ npm i -D eslint @locdp/eslint-config-vue
   "extends": "@locdp/eslint-config-vue"
 }
 ```
+
+### Override the rules
+
+```jsonc
+{
+  "extends": "@locdp/eslint-config-vue",
+  "rules": {
+    // your rules...
+  }
+}
+```
